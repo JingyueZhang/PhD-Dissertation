@@ -78,7 +78,7 @@ for (samnum in c(93,98,100)){
   table_mmmfit<-list() ### keep model fitting result
   strttime_mmm<- proc.time()
   ### LOOP for model component equals to 2,3,4,5##
-  for (i in 2:4){
+  for (i in 2:5){
     # setup model
     tryCatch({
       mmm_data<- build_mmm(observations = aggseq,n_clusters = i,

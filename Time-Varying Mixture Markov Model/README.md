@@ -1,5 +1,5 @@
 # Time-Varying Mixture Markov Model
-This folder includes scripts for estimating a time-varying mixture Markov model. Model formulation can be found in Dissertation Proposal.pdf
+This folder includes scripts for estimating a time-varying mixture Markov model. Model formulation can be found in Dissertation Proposal.pdf.
 
 ## Data
 Data used for this study is obtained by combining multiyear National Household Travel Survey. Script for data preparation can be found in Data Preparation folder

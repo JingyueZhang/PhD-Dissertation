@@ -3,6 +3,7 @@ mydat=read.csv(file="C:/Users/jiz13007/Documents/Pattern Recognition/Book Chapte
 dim(mydat)
 names(mydat)
 ### Randomly resample data
+set.seed(1234)
 mydat <- mydat[sample(nrow(mydat)),]
 for (i in 1:50){
   subdat<-mydat[((i-1)*1273+1):(i*1273),]

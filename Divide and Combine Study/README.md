@@ -1,5 +1,5 @@
 ## A Novel Divide and Combine based Approach to Estimating Mixture Markov Model for Analyzing Large Categorical Time Series Data
-Please see the [Abstrat.txt](Anstract.txt) for details
+Please see the [DivideandCombineStudy_Abstrat.txt](DivideandCombineStudy_Abstrat.txt) for details
 ### Data
 * Data used for case study are obtained by combining five waves of National Household Travel Survey (1990, 1995, 2001, 2009, 2017)
 * Script for data preparation can be found under Data Preparation folder

@@ -1,7 +1,7 @@
 # PhD-Dissertation
 This repository includes Jingyue Zhang's Ph.D. dissertation entitled "Advanced Modeling and Forecasting Methodologies for Activity-travel Behavior Analysis". The dissertation includes three studies, abstract and scripts will be added for each of them
 ## Dissertation documents include:
-* Dissertation proposal
+* Dissertation proposal.pdf
 * Abstract for study "A Novel Divide and Combine Based Approach to Estimating Mixture Markov Model for Analyzing Large Categorical Time Series Data"
 
 ## Scripts:

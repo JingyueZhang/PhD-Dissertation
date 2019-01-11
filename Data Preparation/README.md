@@ -7,3 +7,5 @@ This foldder includes all the scripts created for data preparation.
     * Characterize individual's daily activity-travel behavior as categorical time series data and create new data files
 * [CHTS2010_TourFormation.ipynb](CHTS2010_TourFormation.ipynb)
     * Data used for this script is 2010 California Household Travel Survey https://www.nrel.gov/transportation/secure-transportation-data/tsdc-california-travel-survey.html
+* [CHTS2010_AggregateTripPurpose.ipynb](CHTS2010_AggregateTripPurpose.ipynb)
+   * Consolidate reported trip/activity purposes to 10 categories

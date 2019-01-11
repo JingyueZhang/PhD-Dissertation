@@ -12,6 +12,8 @@ This repository includes Jingyue Zhang's Ph.D. dissertation entitled "Advanced M
     * Characterize individual's daily activity-travel behavior as categorical time series data and create new data files
 * [CHTS2010_TourFormation.ipynb](CHTS2010_TourFormation.ipynb)
     * Data used for this script is 2010 California Household Travel Survey https://www.nrel.gov/transportation/secure-transportation-data/tsdc-california-travel-survey.html
+* [CHTS2010_AggregateTripPurpose.ipynb](CHTS2010_AggregateTripPurpose.ipynb)
+    * Consolidate reported trip/activity purposes to 10 categories
 ### Divide and Combine Study
 * [DivideData.R](DivideData.R): R script for randomly split a large dataset to multiple subsamples
 * [MMM_Estimation.R]([MMM_Estimation.R): R script for estimating Mixture Markov models for each subsample
